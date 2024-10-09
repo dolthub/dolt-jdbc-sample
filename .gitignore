@@ -4,11 +4,11 @@
 # Log file
 *.log
 
-# BlueJ files
-*.ctxt
+# JetBrains metadata
+.idea/*
 
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
+# Maven output
+target/*
 
 # Package Files #
 *.jar
